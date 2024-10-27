@@ -1,6 +1,8 @@
 # Air_Canvas
 Python based Computer Vision Code for making an Air Canvas
 
+It's a project to draw on your webcam feed in real-time using Handtracking with python and OpenCV
+
 
 Requirements:
 1. WebCam atleast 720Pixels at 60 fps
@@ -15,3 +17,4 @@ pip install mediapipe
 
 To run the aircanvas, navigate to the Code_Section directory and run the following command:
 python Air_canvas.py
+
